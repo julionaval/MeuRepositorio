@@ -1,10 +1,10 @@
 1 - Crie um prompt simples pedindo ao modelo para escrever uma carta de recomendacão sem fornecer nenhum contexto adicional. Depois, revise o prompt adicionando detalhes sobre o destinatário e o propósito da carta. Como o contexto influenciou a qualidade da resposta?
 
-R - Prompt Simples: "Escreva uma carta de recomendação."
+R - Prompt Simples: carta de recomendação.
 
 Resposta simples: "Prezado [Destinatario], Tenho o prazer de recomendar Joao Silva. Ele foi um excelente colega de trabalho e demonstrou grande competência nas suas tarefas. Sempre foi responsável e dedicado, e acredito que ele fara um ótimo trabalho em qualquer ambiente."
 
-Prompt com Contexto Adicional: "Escreva uma carta de recomendação para Joao Silva, que esta se candidatando a uma vaga de engenheiro de software na Microsoft. Na carta, mencione sua habilidade técnica em programação, seu trabalho em equipe, sua liderançaa em projetos e sua ética profissional. A carta deve ser endereçada ao gerente de recursos humanos da empresa Microsoft.
+Prompt com Contexto Adicional: carta de recomendação para Joao Silva, que esta se candidatando a uma vaga de engenheiro de software na Microsoft, com habilidade técnica em programação, trabalho em equipe, liderançaa em projetos e ética profissional. A carta será endereçada ao gerente de recursos humanos da empresa Microsoft.
 
 Resposta com contexto: "Prezado Gerente de Recursos Humanos, É com grande entusiasmo que recomendo João Silva para a vaga de engenheiro de software na Microsoft. Durante o tempo em que trabalhou comigo na Impasa, João se destacou como um dos profissionais mais competentes que já tive o prazer de colaborar. Sua habilidade técnica em programação é impressionante, demonstrando um profundo domínio de linguagens como Python e Java. Além disso, ele se destacou como um líder em projetos, sempre guiando sua equipe com clareza e responsabilidade. Sua ética profissional é exemplar, sempre cumprindo prazos e buscando soluções inovadoras. Acredito que João será um valioso membro de sua equipe e contribuirá imensamente para o sucesso da Microsoft.
 
