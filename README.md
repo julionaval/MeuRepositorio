@@ -24,4 +24,4 @@ A CloudFlare torna sites, aplicativos e redes mais rapidos e seguros. A platafor
 Aula 5 - Nesta aula o tema proposto foi Engenharia de Prompt
 A engenharia de prompt surgiu para criar e melhorar prompt 
 Alem do conhecimento dos tipos, importancia e utilizacao dos prompt foram realizadas diversos exercicios praticos ao final do conteudo. 
-Nesta ultima aula, eu organizei o meu repositorio no github adicionando arquivos ao repositorio com o comando git add, registro das alteracao com o comando git commit -m e realizado o push usando oo comando git push origin main.     
+Nesta ultima aula, eu organizei o meu repositorio no github adicionando arquivos ao repositorio com o comando git add ., registro das alteracao com o comando git commit -m e realizado o push usando oo comando git push origin main.     
